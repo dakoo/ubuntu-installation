@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu-installation",
+  "tagline": "",
+  "body": "### Ubuntu 16.04 installation\r\n\r\n0. [Caplock키 설정](http://hochulshin.com/tools-ubuntu-capslock/)\r\n1. [chrome 설치](http://hochulshin.com/ubuntu-chrome-installation/)\r\n2. [한글 설정](http://hochulshin.com/ubuntu-1604-hangul/)\r\n3. [sublime text 설치](http://hochulshin.com/sublime-text3/)\r\n4. [bash prompt 짧게 만들기](http://hochulshin.com/ubuntu-shortening-bash-prompt/)\r\n5. [기본 vi 설정](http://hochulshin.com/dev-linux-vi-mimimal-setting/)\r\n6. [Java 설치](http://hochulshin.com/oracle-java8-installation-ubuntu-1604/)\r\n ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
